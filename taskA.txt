@@ -1,0 +1,51 @@
+1.Centralised version  control system manages the whole environment in central server to which developers have to communicate,while DVCS allows local environments to each user removing dependency on a central server
+
+2.
+   CVCS- SVN,CVS
+   DVCS- Git,Mercurial
+
+3.git being DVCS allows distributed management as well as allows branhing ,pulling and amazing community support.
+
+4.unstaged,staged,commit
+
+B.
+1.cloned using clone command and checked git status
+2.Added pushText.txt in the folder and pushed the changes
+
+3.Added pullTask.txt to repository and pulled the changes
+
+4.used git fetch to fetch changes and merged it
+
+5 created stashText.txt without commiting and statshed it to pop in stashCheck branch and applied the changes
+
+6.created feature branch and created featureText.txt and committed it in feature branch
+
+7 merged the changes using rebase command
+
+8.created another branch feature3 and merged with FF
+
+C.DOne everything with same repository
+
+D.
+
+
+
+
+
+
+
+
+
+*   Merge branch 'moreEvents'
+|\  
+| * More friendly events
+* |   merged event handling
+|\ \  
+| |/  
+| * Add multiple Events
+| * New thought for the day
+| * Added events
+* | Different event
+|/  
+* Refactored fnOne
+* initial
